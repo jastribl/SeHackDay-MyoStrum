@@ -1,0 +1,4 @@
+﻿  communications.cpp
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/OPT:ICF' specification
+  hello-myo-VisualStudio2013.vcxproj -> J:\Justin\Desktop\Guitar\C++GuitarApp\samples\x64\Release\hello-myo-VisualStudio2013.exe
+          1 file(s) copied.
