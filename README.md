@@ -1,4 +1,4 @@
 SeHackDay-MyoStrum
 ==================
 
-Uwaterloo Se Hack Day - Myo Strum Application
+Uwaterloo SE Hack Day - Myo Strum Application
