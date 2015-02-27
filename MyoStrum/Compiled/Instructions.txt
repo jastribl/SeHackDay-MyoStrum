@@ -1,4 +1,0 @@
-Run redis-server
-Run Strum-App and enter ip address
-Run C++ Backend
-Initialize Myo, and strum away!
